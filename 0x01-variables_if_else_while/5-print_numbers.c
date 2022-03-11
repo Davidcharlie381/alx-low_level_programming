@@ -15,4 +15,6 @@ int main(void)
 		putchar(base);
 	}
 	putchar('\n');
+
+	return (0);
 }
