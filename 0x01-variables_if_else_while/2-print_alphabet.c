@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - a to z
  *
  * Return: 0
