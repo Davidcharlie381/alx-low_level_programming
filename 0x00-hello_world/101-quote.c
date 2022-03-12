@@ -1,4 +1,4 @@
-#include <stdio.h> 
+#include <stdio.h>
 
 /**
 * main - prints to string
@@ -6,7 +6,7 @@
 * Return: 1
 */
 
- int main(void)
+int main(void)
 {
 char *s = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
 long l = 59;
