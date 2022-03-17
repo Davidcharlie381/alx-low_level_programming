@@ -1,12 +1,12 @@
-nclude <stdio.h>
+#include <stdio.h>
 #include "main.h"
 
 /**
- *  * print_alphabet - alphabet
- *   *
- *    * Return: none
- *     *
- *      */
+ * print_alphabet - alphabet
+ *
+ * Return: none
+ *
+ */
 
 void print_alphabet(void)
 {
