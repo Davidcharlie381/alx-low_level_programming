@@ -10,7 +10,7 @@ char **strtow(char *str);
 
 char *argstostr(int ac, char **av);
 
-char *str_concat(char *s1, chqr *s2);
+char *str_concat(char *s1, char *s2);
 
 void free_grid(int **grid, int height);
 
