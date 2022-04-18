@@ -2,6 +2,8 @@
 
 This is a repo which contains all the project tasks at ALX. It was programmed using the C language. On a few tasks, I had help from other students in my cohort.
 
+In each directory, using the README, I'll explain what every task does.
+
 As I advance with the projects, I'll make updates and commit to this README, and the respective ones.
 
 - 0x00. C - Hello, World
